@@ -26,3 +26,4 @@ Compared to Euler a, this second-order stochastic differential equation solver p
 
 ---
 ## 🎓 About the Researcher
+**Johnson Zhan** The University of Hong Kong (HKU) | Electronic Engineering
